@@ -1,0 +1,1 @@
+java -Xmx${MIN_RAM} -Xms${MAX_RAM} -jar server.jar nogui
